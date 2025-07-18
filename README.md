@@ -1,10 +1,10 @@
 👋 Bem-vindo ao meu perfil no GitHub!
-Sou estudante de Análise e Desenvolvimento de Sistemas (1º período), apaixonado por tecnologia e atualmente focado na área de Back-End com Python. Desde que comecei minha jornada em 2022, venho me dedicando ao desenvolvimento de sites e aplicativos, sempre motivado pelo desafio de transformar ideias em soluções reais através do código.
+Sou estudante de Análise e Desenvolvimento de Sistemas (02º semestre), apaixonado por tecnologia e atualmente focado na área de Back-End com Python. Desde que comecei minha jornada em 2022, venho me dedicando ao desenvolvimento de sites e aplicativos, sempre motivado pelo desafio de transformar ideias em soluções reais através do código.
 
 🚀 Sobre mim
 🎯 Focado em Back-End e desenvolvimento com Python
 
-📘 Estudando: Banco de Dados, APIs REST, Bibliotecas Python e muito mais
+📘 Estudando: Banco de Dados, APIs REST, Flask, Django, Bibliotecas Python e muito mais
 
 🌐 Inglês Intermediário — leitura e compreensão técnica
 
