@@ -1,21 +1,25 @@
-👋 Bem-vindo ao meu perfil no GitHub!
-Sou estudante de Análise e Desenvolvimento de Sistemas (02º semestre), apaixonado por tecnologia e atualmente focado na área de Back-End com Python. Desde que comecei minha jornada em 2022, venho me dedicando ao desenvolvimento de sites e aplicativos, sempre motivado pelo desafio de transformar ideias em soluções reais através do código.
+👋 Bem-vindo(a) ao meu universo de código!
 
-🚀 Sobre mim
-🎯 Focado em Back-End e desenvolvimento com Python
+Sou Mateus Santos Telles, um dev em formação e estudante de Análise e Desenvolvimento de Sistemas (2º semestre). Minha jornada na programação começou em 2022 e, desde então, me apaixonei pelo poder de transformar a lógica em criatividade, especialmente no mundo do Back-End com Python.
 
-📘 Estudando: Banco de Dados, APIs REST, Flask, Django, Bibliotecas Python e muito mais
+🚀 Em construção:
+Minha paixão é criar a "espinha dorsal" de sites e aplicativos. Atualmente, estou focado em aprofundar meus conhecimentos em:
+- Back-End: Python, Flask, Django.
+- Bancos de Dados: SQL e PostgreSQL.
+- APIs: Desenvolvendo e consumindo APIs REST.
+E, claro, sempre de olho em novas tecnologias!
 
-🌐 Inglês Intermediário — leitura e compreensão técnica
+✨ Minha motivação:
+- O que me move é a sensação de ver um projeto ganhar vida, linha por linha de código. Cada bug resolvido e cada funcionalidade implementada é uma pequena vitória que me inspira a continuar evoluindo.
+  
+📫 Vamos conversar?
+Fique à vontade para entrar em contato!
 
-💡 Sempre buscando aprender e crescer na área de tecnologia
+Email: mateussantos147854@gmail.com
+Instagram/Threads: @mateus360_santos
+Perfil da Udemy: Mateus Santos
 
-📫 Contato
-📧 Email: mateussantos147854@gmail.com
-📲 Instagram e threads: mateus360_santos
 
-⚡ Curiosidade
-Minha jornada na programação começou em 2022, e desde então venho descobrindo um mundo incrível onde a lógica encontra a criatividade. A sensação de transformar uma ideia em realidade através do código é algo que me inspira todos os dias. Cada projeto é uma nova oportunidade de evoluir como desenvolvedor e como pessoa. ✨
 
 🛠️ Tecnologias que estou usando:
 <div style="display: inline_block"><br> <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img align="center" alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> <img align="center" alt="Flask" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"> <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> </div>
