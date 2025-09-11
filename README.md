@@ -15,9 +15,9 @@ E, claro, sempre de olho em novas tecnologias!
 📫 Vamos conversar?
 Fique à vontade para entrar em contato!
 
-Email: mateussantos147854@gmail.com
-Instagram/Threads: @mateus360_santos
-Perfil da Udemy: Mateus Santos
+- Email: mateussantos147854@gmail.com 
+- Instagram/Threads: @mateus360_santos
+- Perfil da Udemy: Mateus Santos
 
 
 
