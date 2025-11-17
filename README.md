@@ -1,19 +1,80 @@
-👋 Olá! Sou Mateus Santos Telles
-Desenvolvedor Back-End em formação | Estudante de ADS (2º semestre - UNG)
+**`Desenvolvedor FullStack`**
 
-Transformando lógica em código desde 2022, com foco em construir sistemas robustos e escaláveis.
+Me chamo Mateus Santos Telles, tenho 18 anos e sou natural de São Paulo - Tenho diversos cursos como: informática, Segurança da Informação, Inglês, manutenção de computadores, etc (sempre estou evoluindo meu conhecimento tecnico e teórico). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNG - Guarulhos. 
 
-🛠️ Stack Atual
-Back-End: Python - Flask - Django
-Databases: SQL - PostgreSQL
-APIs: REST - Desenvolvimento e consumo
-Engenharia de prompt + IAs
+---
 
-🎯 No momento
-Aprofundando conhecimentos em arquitetura de APIs e design de bancos de dados relacionais enquanto construo projetos práticos para meu portfólio.
+### 🤖 Linguagens e Tecnologias
 
-📫 Contato
-📧 mateussantos147854@gmail.com
-📷 Instagram/Threads: @mateus360_santos
-🛠️ Tecnologias que estou usando:
-<div style="display: inline_block"><br> <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img align="center" alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> <img align="center" alt="Flask" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"> <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> </div>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+/>
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
