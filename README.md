@@ -1,8 +1,20 @@
-**`Desenvolvedor Back End`**
+Olá! Sou Mateus Telles 🚀
 
-Me chamo Mateus Santos Telles, tenho 18 anos e sou natural de São Paulo - Tenho diversos cursos como: informática, Segurança da Informação, Inglês, manutenção de computadores, etc (sempre estou evoluindo meu conhecimento tecnico e teórico). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNG - Guarulhos. 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas | UNG
 
----
+Sou um entusiasta de tecnologia focado na transição para Desenvolvimento Back-End. Minha paixão é entender o que acontece "por trás dos panos" das aplicações: como os dados são processados, armazenados e protegidos.
+
+🛠 Stack & Ferramentas:
+
+Linguagens: Python (Foco em automação e lógica).
+
+Banco de Dados: MySQL (Modelagem e Queries).
+
+Cloud: Iniciando estudos em AWS (Amazon Q).
+
+Interesses: Segurança da Informação, APIs e Estrutura de Dados.
+
+⚡ Atualmente aprimorando meus conhecimentos em lógica de programação e explorando o ecossistema Cloud.
 
 ### 🤖 Linguagens e Tecnologias
 
