@@ -28,7 +28,6 @@ Atualmente, estou fortalecendo fundamentos (lógica, estruturas de dados, SQL) e
 - LinkedIn: Mateus Santos Telles
 
 ## Tecnologias
-## Tecnologias
 <p>
   <img alt="Python" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="FastAPI" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
