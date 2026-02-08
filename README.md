@@ -32,9 +32,4 @@ Gosto de entender o **funcionamento interno das aplicações** — como dados fl
 - Projetos com foco em **clareza, aprendizado e boas práticas**
 - Automações voltadas para **ganho de produtividade**
 
----
-
-## 📊 Estatísticas
-
-![Estatísticas do Mateus](https://github-readme-stats.vercel.app/api?username=mateustelles&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
