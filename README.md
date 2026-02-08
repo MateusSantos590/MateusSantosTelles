@@ -35,9 +35,6 @@ Gosto de entender o **funcionamento interno das aplicações** — como dados fl
 ---
 
 ## 📊 Estatísticas
-![Estatísticas do Mateus](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
 
----
+![Estatísticas do Mateus](https://github-readme-stats.vercel.app/api?username=mateustelles&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-## 📫 Contato
-- 💼 LinkedIn: [SEU_LINK_AQUI ](https://www.linkedin.com/in/mateus-santos-telles-0526ba302/) 
